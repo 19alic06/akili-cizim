@@ -1,0 +1,2 @@
+# akili-cizim
+akılı çizim
